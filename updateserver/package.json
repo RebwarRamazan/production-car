@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.0",
+    "compression": "^1.7.4",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "express-mongo-sanitize": "^2.2.0",
+    "express-rate-limit": "^6.6.0",
+    "express-slow-down": "^1.5.0",
+    "express-validator": "^6.14.2",
+    "helmet": "^6.0.0",
+    "hpp": "^0.2.3",
+    "joi": "^17.6.0",
+    "jsonwebtoken": "^8.5.1",
+    "method-override": "^3.0.0",
+    "mongoose": "^6.4.5",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.5-lts.1",
+    "rate-limiter-flexible": "^2.3.11",
+    "xss-clean": "^0.1.1"
+  }
+}
